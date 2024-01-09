@@ -1,0 +1,223 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+.bg-img {
+  background-image: url(B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png);
+  width: 1320px;
+  height: 600px;
+  flex-shrink: 0;
+  border-radius: 16px;
+  margin-left: 300px;
+  border-radius: 16px;
+}
+h3 {
+  color: #fff;
+  text-align: center;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 95px;
+}
+.new-year-off {
+  background-image: url(B9A1-New-Year-New-Mission-main/resources/New\ Year\ Photo.png);
+  background-repeat: no-repeat;
+  width: 802.9px;
+  height: 500px;
+  flex-shrink: 0;
+  margin-left: 550px;
+  margin-top: 40px;
+}
+.off {
+  color: #f00;
+  text-align: center;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+p {
+  text-align: center;
+  margin-top: 10px;
+  color: #070211;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+span {
+  color: #f00;
+  text-align: center;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.you-mu {
+  background-image: url(B9A1-New-Year-New-Mission-main/resources/Vectorrr.png);
+  background-repeat: no-repeat;
+  width: 1320px;
+  height: 600px;
+  flex-shrink: 0;
+  margin-left: 300px;
+}
+img {
+  display: flex;
+  width: 319.83px;
+  height: 464.662px;
+  padding-left: 900px;
+  bottom: 80px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
+h4 {
+  display: block;
+  color: #fff;
+  font-size: 30px;
+  padding-left: 30px;
+}
+h5 {
+  color: #fff;
+  font-size: 10px;
+}
+.date-time {
+  width: 1320px;
+  height: 482px;
+  flex-shrink: 0;
+  margin-left: 300px;
+  margin-top: 60px;
+  background-image: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 0.1) 0%,
+    rgba(255, 0, 0, 0) 100%
+  );
+}
+.join-box,
+li {
+  text-align: center;
+  color: #070211;
+  font-family: Inter;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400px;
+  line-height: 56px;
+  text-transform: capitalize;
+  padding-top: 30px;
+  list-style-type: none;
+}
+a {
+  display: inline-flex;
+  padding: 16px 32px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  background-color: #f00;
+  border-radius: 5px;
+  margin-left: 600px;
+  margin-top: 30px;
+  color: #fff;
+  font-weight: 700;
+  color: #fff;
+}
+
+h5 {
+  color: #f00;
+  font-size: 24px;
+  font-style: ;
+  font-weight: 500;
+  line-height: normal;
+}
+.ofear {
+  font-size: 20px;
+  color: #070211;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  text-transform: capitalize;
+  display: flex;
+}
+.amet {
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  display: flex;
+}
+.Ellipse-1 {
+  margin-right: 250px;
+  width: 364.844px;
+  height: 364.844px;
+  flex-shrink: 0;
+}
+.div-box {
+  margin-right: 900px;
+}
+.Portfolio {
+  width: 1320px;
+  height: 1000px;
+  flex-shrink: 0;
+  margin-left: 300px;
+  margin-top: 60px;
+}
+.best-1 {
+  font-size: medium;
+  color: #f00;
+  font-weight: 500;
+  line-height: normal;
+  padding-right: 1100px;
+}
+.best-2 {
+  font-size: small;
+  padding-right: 900px;
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 20px;
+  font-weight: 200px;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.best-3 {
+  font-size: small;
+  color: rgba(7, 2, 17, 0.6);
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  padding-right: 300px;
+}
+.Portfolio-2 {
+  width: 424px;
+  height: 450px;
+  flex-shrink: 0;
+  padding-left: 0;
+  display: flex;
+}
+.gurup-96 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.hext {
+  width: 364.844px;
+  height: 364.844px;
+  flex-shrink: 0;
+}
+.gurup-96 {
+  width: 140px;
+  height: 140px;
+  flex-shrink: 0;
+}
